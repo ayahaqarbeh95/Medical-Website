@@ -1,0 +1,233 @@
+body{
+  
+  overflow-x: hidden;
+}
+
+.aboveCover{
+	height:80%;
+	width :100%;
+	float: right;
+	
+}
+.collapse{
+	margin-left: 70px;}
+
+.form-inline{
+	margin-left: 80px;}
+
+.nav-item{
+	padding-left: 15px;}
+
+.pharagraph_cover {
+  margin-bottom: 60px;
+}
+
+.feature{
+	margin-top: 90px;}
+
+.feature_2{
+	margin-left: 150px;
+	margin-top: 120px;
+}
+
+.feature_3{
+	margin-left: 120px;	
+    margin-top: 50px;
+
+}
+
+.feature_img{
+	margin-left: 90px;
+	margin-top: 140px;
+	height: 20%;
+	width: 30%;
+}
+
+.feature_title{
+	margin-top: 50px;
+	margin-left:550px;
+}
+
+.Dr_title{
+	margin-left:400px;
+
+}
+
+
+@font-face{
+	font-family: ayah1;
+	src:url('../font/Cinzel_Decorative/CinzelDecorative-Regular.ttf');
+}
+
+#fontCover{font-family: ayah1;
+font-size: 40px;
+font-weight:bolder;
+}
+
+#font_1{font-family: ayah1;
+font-size: 25px;
+font-weight:bolder;
+}
+
+
+.fas{
+	margin-left: 50px;
+}
+
+.Doctors{
+	margin-top: 500px;
+}
+
+.footCard{
+	padding-left: 0px;
+}
+
+
+.fas{
+	margin-left: 0px;
+}
+
+.QEH{
+  margin-top: 50px; 
+  margin-left: 70px;
+}
+
+
+.Q1{
+
+	top: -30px;
+	width: 300px;
+    background-color: #59ABE3;
+    padding:10px;
+      margin-left: 15px;
+      border-radius: 50px;
+  cursor: pointer;
+
+}
+
+.QEH :hover{
+	opacity: 0.7;
+}
+.E1{
+    background-color: #4B77BE;
+    width: 300px;
+    padding:10px;
+    margin-left: 15px;
+     margin-left: 15px;
+     border-radius: 50px;
+  cursor: pointer;
+
+}
+
+.card-deck :hover{
+	background-color:#89C4F4;
+}
+
+
+.H1{
+   background-color:#5D8CAE;
+   	width: 300px;
+
+   padding:10px;
+   margin-left: 15px;
+    margin-left: 15px;
+      border-radius: 50px;
+  cursor: pointer;
+  top: 40px;
+
+}
+.studies_text{
+	text-align: justify-all;
+}
+
+.studiesFeature{
+	background-color:  #e6f3ff;
+	margin-top: 100px;
+}
+
+#pStu{
+	color:  #1a90ff;
+	display: inline-block;
+}
+
+#hStu {
+color:  #1a90ff;	
+}
+
+
+.Department{
+	margin-top: 150px;
+    margin-left:420px;
+}
+
+.pDepart{
+	margin-top: 20px;
+    margin-left:300px;
+    display: inline-block;	
+}
+
+.icon-box-modern{
+	border-style: outset;
+	height: 300px;
+	width: 300px;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+
+.d-lg-block{
+	display: inline-block;
+}
+
+
+.Appointment{
+    margin-top: 150px;
+	background-color:  #e6f3ff;
+	padding: 30px;
+	height: 550px;	
+}
+
+.Appoint_1{
+    margin-top: 150px;
+
+}
+
+#Textarea{
+	margin-left: 0px;
+}
+
+.Appointment2{
+	margin-top: 100px;
+
+}
+
+.Appointment3{
+	border-style: outset;
+
+}
+
+
+.footer{
+	margin-top: 100px;
+	padding-top: 20px;
+	background-color:  #6699cc;
+}
+
+.social{
+
+	margin-left: 200px;
+	color: black;
+}
+
+.socialMedia{
+	display: inline-block;
+	padding-right: 10px;
+}
+
+.text-style-1{
+display: inline-block;
+}
+
+.FF{
+	padding-left: 20px; 
+}
